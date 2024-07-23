@@ -6,7 +6,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,hibernate,css,mysql,spring" />
+    <img src="https://skillicons.dev/icons?i=maven,hibernate,css,postman,mysql,spring" />
   </a>
 </p>
 
@@ -17,6 +17,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 - **JSP**: JavaServer Pages for creating dynamic web pages.
 - **Hibernate**: Object-Relational Mapping framework for managing database operations.
 - **Spring & Spring Boot**: Powerful frameworks for building scalable and efficient applications.
+- **Postman**: Collaboration platform for API development, testing, and management.
 
 ## Getting Started
 
