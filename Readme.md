@@ -6,7 +6,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,eclipse,maven,css,postman,spring,MySQL,hibernet"/>
+    <img src="https://skillicons.dev/icons?i=java,eclipse,maven,css,postman,spring,mysql,hibernet"/>
   </a>
 </p>
 
