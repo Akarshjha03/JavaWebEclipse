@@ -11,6 +11,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 </p>
 
 - **JAVA**: It is the language used for this web development.
+- **Eclipse IDE**: Integrated Development Environment for Java and web development.
 - **JDBC**: Java Database Connectivity for managing database interactions.
 - **MySQL**: Relational database management system for storing data.
 - **Maven**: Build automation tool for managing dependencies and project structure.
@@ -19,7 +20,6 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 - **Hibernate**: Object-Relational Mapping framework for managing database operations.
 - **Spring & Spring Boot**: Powerful frameworks for building scalable and efficient applications.
 - **Postman**: Collaboration platform for API development, testing, and management.
-- **Eclipse IDE**: Integrated Development Environment for Java and web development.
 
 ## Getting Started
 
