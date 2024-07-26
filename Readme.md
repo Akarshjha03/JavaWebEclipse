@@ -10,8 +10,8 @@ Welcome to the Java Web Development Repository! This repository is designed to h
   </a>
 </p>
 
-- **JDBC**: Java Database Connectivity for managing database interactions.
 - **JAVA**: It is the language used for this web development.
+- **JDBC**: Java Database Connectivity for managing database interactions.
 - **MySQL**: Relational database management system for storing data.
 - **Maven**: Build automation tool for managing dependencies and project structure.
 - **Servlets**: Java classes to handle requests and responses on the server.
