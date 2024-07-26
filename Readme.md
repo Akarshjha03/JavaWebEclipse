@@ -18,6 +18,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 - **Hibernate**: Object-Relational Mapping framework for managing database operations.
 - **Spring & Spring Boot**: Powerful frameworks for building scalable and efficient applications.
 - **Postman**: Collaboration platform for API development, testing, and management.
+- **Eclipse IDE**: Integrated Development Environment for Java and web development.
 
 ## Getting Started
 
