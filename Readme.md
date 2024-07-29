@@ -21,6 +21,46 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 - **Spring & Spring Boot**: Powerful frameworks for building scalable and efficient applications.
 - **Postman**: Collaboration platform for API development, testing, and management.
 
+# Project Description
+
+## Project1 - MAVEN Project
+
+This project demonstrates the use of Maven for dependency management in a Java web application. Maven is a powerful build automation tool used primarily for Java projects. It simplifies the process of managing project dependencies, building, and deploying applications.
+
+### Features:
+- Maven project structure
+- Dependency management
+- Build and deployment configuration
+
+## Project2 - Cookie Management
+
+This project focuses on the management of cookies within a Java web application. Cookies are small pieces of data stored on the client's browser to maintain stateful information across multiple requests.
+
+### Features:
+- Setting cookies
+- Retrieving cookies
+- Deleting cookies
+
+## Project3 - Login Session Management
+
+This project demonstrates how to manage user login sessions in a Java web application. Session management is crucial for maintaining user state and ensuring secure access to application resources.
+
+### Features:
+- User authentication
+- Session creation and management
+- Session invalidation
+
+## Project4 - CRUD Operations on Servlet
+
+This project showcases how to perform CRUD (Create, Read, Update, Delete) operations using Java servlets. CRUD operations are fundamental to most web applications as they allow for the management of application data.
+
+### Features:
+- Create operation: Adding new records
+- Read operation: Retrieving records
+- Update operation: Modifying existing records
+- Delete operation: Removing records
+
+
 ## Getting Started
 
 To get started, clone the repository and explore the various directories and code examples. Each technology has its own folder with detailed explanations and sample code to help you understand and implement it in your projects.
