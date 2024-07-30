@@ -23,7 +23,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 
 # Project Description
 
-### Project1 - MAVEN Project
+### Project 1 - MAVEN Project
 
 This project demonstrates the use of Maven for dependency management in a Java web application. Maven is a powerful build automation tool used primarily for Java projects. It simplifies the process of managing project dependencies, building, and deploying applications.
 
@@ -32,7 +32,7 @@ This project demonstrates the use of Maven for dependency management in a Java w
 - Dependency management
 - Build and deployment configuration
 
-### Project2 - Cookie Management
+### Project 2 - Cookie Management
 
 This project focuses on the management of cookies within a Java web application. Cookies are small pieces of data stored on the client's browser to maintain stateful information across multiple requests.
 
@@ -41,7 +41,7 @@ This project focuses on the management of cookies within a Java web application.
 - Retrieving cookies
 - Deleting cookies
 
-### Project3 - Login Session Management
+### Project 3 - Login Session Management
 
 This project demonstrates how to manage user login sessions in a Java web application. Session management is crucial for maintaining user state and ensuring secure access to application resources.
 
@@ -50,7 +50,7 @@ This project demonstrates how to manage user login sessions in a Java web applic
 - Session creation and management
 - Session invalidation
 
-### Project4 - CRUD Operations on Servlet
+### Project 4 - CRUD Operations on Servlet
 
 This project showcases how to perform CRUD (Create, Read, Update, Delete) operations using Java servlets. CRUD operations are fundamental to most web applications as they allow for the management of application data.
 
@@ -60,7 +60,7 @@ This project showcases how to perform CRUD (Create, Read, Update, Delete) operat
 - Update operation: Modifying existing records
 - Delete operation: Removing records
 
-### Project5 - Printing Statement on Servlet
+### Project 5 - Printing Statement on Servlet
 
 This project demonstrates how to print statements on a web page using Java servlets. It covers the basics of writing output to the client’s browser from a servlet.
 
