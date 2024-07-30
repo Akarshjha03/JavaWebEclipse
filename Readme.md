@@ -60,6 +60,15 @@ This project showcases how to perform CRUD (Create, Read, Update, Delete) operat
 - Update operation: Modifying existing records
 - Delete operation: Removing records
 
+### Project5 - Printing Statement on Servlet
+
+This project demonstrates how to print statements on a web page using Java servlets. It covers the basics of writing output to the client’s browser from a servlet.
+
+#### Features:
+- Setting up a servlet
+- Printing text on a web page
+- Handling HTTP requests and responses
+
 
 ## Getting Started
 
