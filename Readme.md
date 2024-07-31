@@ -69,6 +69,16 @@ This project demonstrates how to print statements on a web page using Java servl
 - Printing text on a web page
 - Handling HTTP requests and responses
 
+### Project6 - Basic Data Retrieval App
+
+This project demonstrates a basic data retrieval application built using JSP (JavaServer Pages). The application allows users to log in and retrieve data after successful authentication.
+
+#### Features:
+- User login authentication
+- Data retrieval post-login
+- JSP for dynamic web content
+- Secure data handling
+
 
 ## Getting Started
 
