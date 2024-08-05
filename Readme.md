@@ -79,6 +79,27 @@ This project demonstrates a basic data retrieval application built using JSP (Ja
 - JSP for dynamic web content
 - Secure data handling
 
+### Project 6 - Basic Data Retrieval App
+
+This project demonstrates a basic data retrieval application built using JSP (JavaServer Pages). The application allows users to log in and retrieve data after successful authentication.
+
+#### Features:
+- User login authentication
+- Data retrieval post-login
+- JSP for dynamic web content
+- Secure data handling
+
+### Project 7 - User Details Management System
+
+This project is designed to manage user details using JSP (JavaServer Pages) and JDBC (Java Database Connectivity). The system allows users to view, add, update, and delete their details.
+
+#### Features:
+- User registration and login
+- JSP for dynamic web content
+- JDBC for database interactions
+- Handling of user data
+
+
 
 ## Getting Started
 
