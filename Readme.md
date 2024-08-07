@@ -25,7 +25,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 
 ### Project 1 - MAVEN Project
 
-This project demonstrates the use of Maven for dependency management in a Java web application. Maven is a powerful build automation tool used primarily for Java projects. It simplifies the process of managing project dependencies, building, and deploying applications.
+This project demonstrates the use of Maven for dependency management in a Java web application. Maven is a powerful build automation tool used primarily for Java projects. It simplifies the process of managing project dependencies, and building, and deploying applications.
 
 #### Features:
 - Maven project structure
