@@ -18,7 +18,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 - **Servlets**: Java classes to handle requests and responses on the server.
 - **JSP**: JavaServer Pages for creating dynamic web pages.
 - **Hibernate**: Object-Relational Mapping framework for managing database operations.
-- **Spring & Spring Boot**: Powerful frameworks for building scalable and efficient applications.
+- **Spring & Spring Boot**: Powerful frameworks for building scalable and efficient ap plications.
 - **Postman**: Collaboration platform for API development, testing, and management.
 
 # Project Description
