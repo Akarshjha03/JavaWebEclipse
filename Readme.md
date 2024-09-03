@@ -89,6 +89,20 @@ This project is designed to manage user details using JSP (JavaServer Pages) and
 - JDBC for database interactions
 - Handling of user data
 
+# Project 8 - Basic CRUD Operations with Hibernate
+
+This project demonstrates a basic CRUD (Create, Read, Update, Delete) application built using Hibernate ORM (Object-Relational Mapping). The application allows users to perform CRUD operations on a database through a simple interface.
+
+## Features
+
+- **Create:** Add new entries to the database.
+- **Read:** Retrieve and display data from the database.
+- **Update:** Modify existing data entries.
+- **Delete:** Remove data entries from the database.
+- **Hibernate ORM:** Simplifies database interactions by mapping Java objects to database tables.
+- **JSP:** Used for rendering dynamic web content.
+- **MVC Architecture:** Organized code structure following Model-View-Controller design.
+
 
 
 ## Getting Started
