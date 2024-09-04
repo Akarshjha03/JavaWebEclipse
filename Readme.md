@@ -10,6 +10,7 @@ Welcome to the Java Web Development Repository! This repository is designed to h
   </a>
 </p>
 
+
 - **JAVA**: It is the language used for this web development.
 - **Eclipse IDE**: Integrated Development Environment for Java and web development.
 - **JDBC**: Java Database Connectivity for managing database interactions.
