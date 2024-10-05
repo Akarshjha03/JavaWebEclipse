@@ -104,6 +104,19 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) applicatio
 - **JSP:** Used for rendering dynamic web content.
 - **MVC Architecture:** Organized code structure following Model-View-Controller design.
 
+### Project 9 - Basic CRUD Operations with Spring
+This project demonstrates a basic CRUD (Create, Read, Update, Delete) application built using the Spring Framework. The application allows users to perform CRUD operations on a database through a simple web interface.
+
+#### Features:
+- **Create**: Add new entries to the database.
+- **Read:** Retrieve and display data from the database.
+- **Update:** Modify existing data entries.
+- **Delete:** Remove data entries from the database.
+- **Spring Framework:** Leverages the Spring ecosystem for dependency injection, data persistence, and web functionality.
+- **Spring Data JPA:** Simplifies database interactions by abstracting the repository layer and handling CRUD operations.
+- **Spring MVC:** Follows the Model-View-Controller design pattern to organize the code structure.
+- **Thymeleaf/JSP:** Used for rendering dynamic web content on the front-end.
+
 
 
 ## Getting Started
