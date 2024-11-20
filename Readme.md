@@ -119,36 +119,38 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) applicatio
 
 
 ### Project 10 - Login Page with Session Management in Servlets
-This project demonstrates a basic login functionality using Java Servlets and session management. It includes user authentication and redirection to a personalized welcome page. The application also provides a logout feature to terminate the session and return to the login page.
 
-#### Features:
--**Login Page:**
-A user-friendly form with fields for:
+This project demonstrates a simple login functionality using Java Servlets and session management. It includes user authentication and redirection to a personalized welcome page. The application also provides a logout feature to terminate the session and redirect back to the login page.
 
--Username
--Name
--Password
--Includes a "Submit" button to process login details.
--Session Management:
+---
 
-Maintains user session after successful login.
-Displays a personalized welcome message, e.g., "Welcome, [Username]!" on the next page.
-Redirection:
+#### Features
+- **Login Page**:  
+  A form with the following fields:
+  - Username
+  - Name
+  - Password  
+  Includes a "Submit" button to process login details.
 
-After login, users are redirected to a welcome page that displays the logged-in username.
-Logout link redirects users back to the login page and invalidates the session.
-Servlets and JSP Integration:
+- **Session Management**:  
+  - Maintains the user session after successful login.  
+  - Displays a personalized welcome message, e.g., _"Welcome, [Username]!"_ on the next page.
 
-Uses Java Servlets to handle form submissions and manage session states.
-JSP is used to display the login form and the welcome message.
-Logout Functionality:
+- **Redirection**:  
+  - After login, users are redirected to a welcome page displaying their username.  
+  - Logout link redirects users back to the login page and invalidates the session.
 
-A simple "Logout" link on the welcome page invalidates the session.
-Ensures user details are removed, providing a secure logout experience.
-Key Technologies:
-Java Servlets: Backend logic for handling login validation and session management.
-JSP: For creating dynamic and interactive front-end pages.
-HTTP Session Management: Provides a secure and stateful user experience.
+- **Logout Functionality**:  
+  - Secure logout by invalidating the session.  
+  - Redirects to the login page.
+
+---
+
+#### Technologies Used
+- **Java Servlets**: Backend logic for handling login validation and session management.
+- **JSP**: For creating dynamic and interactive front-end pages.
+- **HTTP Session Management**: Provides a secure and stateful user experience.
+- **Apache Tomcat**: For running the web application.
 
 
 ## Getting Started
