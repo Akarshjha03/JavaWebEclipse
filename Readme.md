@@ -22,6 +22,8 @@ Welcome to the Java Web Development Repository! This repository is designed to h
 - **Spring & Spring Boot**: Powerful frameworks for building scalable and efficient applications.
 - **Postman**: Collaboration platform for API development, testing, and management.
 
+---
+
 # Project Description
 
 ### Project 1 - MAVEN Project
@@ -122,7 +124,6 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) applicatio
 
 This project demonstrates a simple login functionality using Java Servlets and session management. It includes user authentication and redirection to a personalized welcome page. The application also provides a logout feature to terminate the session and redirect back to the login page.
 
----
 
 #### Features
 - **Login Page**:  
@@ -144,14 +145,13 @@ This project demonstrates a simple login functionality using Java Servlets and s
   - Secure logout by invalidating the session.  
   - Redirects to the login page.
 
----
-
 #### Technologies Used
 - **Java Servlets**: Backend logic for handling login validation and session management.
 - **JSP**: For creating dynamic and interactive front-end pages.
 - **HTTP Session Management**: Provides a secure and stateful user experience.
 - **Apache Tomcat**: For running the web application.
 
+---
 
 ## Getting Started
 
